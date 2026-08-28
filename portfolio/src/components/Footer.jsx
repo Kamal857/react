@@ -1,4 +1,4 @@
-import './header.css';
+
 import '../app.css';
 function Footer ()
 {
