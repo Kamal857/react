@@ -46,3 +46,27 @@ footer{
   height: 500px;
   width: auto;
 }
+
+#form{
+  justify-content: center;
+  text-align: center;
+  height: 500px;
+  width:auto;
+  background-color: #434343;
+}
+.form{
+  background-color: aqua;
+  height: 50%;
+  width: auto;
+  justify-content: center;
+  text-align: center;
+  margin: 0px 600px;
+  padding: 50px;
+ 
+
+}
+#name{
+  padding-bottom: 10px;
+  text-align: left;
+border-readius: 50%
+}
